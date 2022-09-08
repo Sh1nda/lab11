@@ -1,0 +1,33 @@
+﻿Построение начато 06.09.2022 19:12:10.
+     1>Проект "c:\Users\79374\documents\visual studio 2010\Projects\lab111\lab111\lab111.vcxproj" в узле 2 (целевые объекты build).
+     1>PrepareForBuild:
+         Создание каталога "c:\users\79374\documents\visual studio 2010\Projects\lab111\Debug\".
+       InitializeBuildStatus:
+         Создание "Debug\lab111.unsuccessfulbuild", так как было задано "AlwaysCreate".
+       ClCompile:
+         E:\2010\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt lab111.cpp stdafx.cpp
+         stdafx.cpp
+         lab111.cpp
+         Создание кода...
+       ManifestResourceCompile:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /nologo /fo"Debug\lab111.exe.embed.manifest.res" Debug\lab111_manifest.rc 
+       Link:
+         E:\2010\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"c:\users\79374\documents\visual studio 2010\Projects\lab111\Debug\lab111.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\lab111.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"c:\users\79374\documents\visual studio 2010\Projects\lab111\Debug\lab111.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"c:\users\79374\documents\visual studio 2010\Projects\lab111\Debug\lab111.lib" /MACHINE:X86 Debug\lab111.exe.embed.manifest.res
+         Debug\lab111.obj
+         Debug\stdafx.obj
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /out:"Debug\lab111.exe.embed.manifest" /manifest Debug\lab111.exe.intermediate.manifest
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /nologo /fo"Debug\lab111.exe.embed.manifest.res" Debug\lab111_manifest.rc 
+       LinkEmbedManifest:
+         E:\2010\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"c:\users\79374\documents\visual studio 2010\Projects\lab111\Debug\lab111.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\lab111.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"c:\users\79374\documents\visual studio 2010\Projects\lab111\Debug\lab111.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"c:\users\79374\documents\visual studio 2010\Projects\lab111\Debug\lab111.lib" /MACHINE:X86 Debug\lab111.exe.embed.manifest.res
+         Debug\lab111.obj
+         Debug\stdafx.obj
+         lab111.vcxproj -> c:\users\79374\documents\visual studio 2010\Projects\lab111\Debug\lab111.exe
+       FinalizeBuildStatus:
+         Файл "Debug\lab111.unsuccessfulbuild" удаляется.
+         Обращение к "Debug\lab111.lastbuildstate".
+     1>Построение проекта "c:\Users\79374\documents\visual studio 2010\Projects\lab111\lab111\lab111.vcxproj" завершено (целевые объекты build).
+
+Построение успешно завершено.
+
+Затраченное время: 00:00:02.95
